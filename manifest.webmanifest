@@ -1,0 +1,17 @@
+{
+  "name": "Tontine Claire",
+  "short_name": "Tontine Claire",
+  "description": "La tontine où chaque membre voit qui a cotisé, l'ordre des tours et la date de fin.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F5F3",
+  "theme_color": "#0E6B57",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
